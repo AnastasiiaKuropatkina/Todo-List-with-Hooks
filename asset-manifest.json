@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-List-with-Hooks/static/css/main.ccd694e3.css",
+    "main.js": "/Todo-List-with-Hooks/static/js/main.4d65b45e.js",
+    "index.html": "/Todo-List-with-Hooks/index.html",
+    "main.ccd694e3.css.map": "/Todo-List-with-Hooks/static/css/main.ccd694e3.css.map",
+    "main.4d65b45e.js.map": "/Todo-List-with-Hooks/static/js/main.4d65b45e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd694e3.css",
+    "static/js/main.4d65b45e.js"
+  ]
+}
